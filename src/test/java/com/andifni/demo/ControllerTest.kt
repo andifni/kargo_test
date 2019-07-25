@@ -66,5 +66,35 @@ class ControllerTest {
         assertEquals(vehicle2, "culpa")
     }
 
+    @Test
+    fun `test call job order by origin descending`() {
+        val result = testRestTemplate.getForEntity("/job?by=origin&asc=0", String::class.java)
+        assertEquals(result.statusCode, HttpStatus.OK)
+        val body = result.body
+        val jsonArray = JSONArray(body)
+        assertEquals(jsonArray.length(), 8)
+        val first = jsonArray.getJSONObject(0)
+        val last = jsonArray.getJSONObject(7)
+        val vehicle1 = first.getString("origin")
+        val vehicle2 = last.getString("origin")
+        assertEquals(vehicle1, "Ypsilanti")
+        assertEquals(vehicle2, "Coalmont")
+    }
+
+    @Test
+    fun `test call job order by origin asc`() {
+        val result = testRestTemplate.getForEntity("/job?by=origin&asc=1", String::class.java)
+        assertEquals(result.statusCode, HttpStatus.OK)
+        val body = result.body
+        val jsonArray = JSONArray(body)
+        assertEquals(jsonArray.length(), 8)
+        val first = jsonArray.getJSONObject(0)
+        val last = jsonArray.getJSONObject(7)
+        val vehicle1 = first.getString("origin")
+        val vehicle2 = last.getString("origin")
+        assertEquals(vehicle2, "Ypsilanti")
+        assertEquals(vehicle1, "Coalmont")
+    }
+
 
 }
