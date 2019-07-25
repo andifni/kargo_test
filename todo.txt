@@ -9,3 +9,14 @@
 	- Read JSON
 	- Parse JSON to Model
 	- sort data
+	- return sorted Array
+	- parse sorted Array to JSONArray
+- Create Controller for /job?
+	- Read parameter
+	- Create comparator for Job DataModel
+	- Read JSON
+	- Parse JSON to Model
+	- sort data
+	- return sorted Array
+	- parse sorted Array to JSONArray
+- Create Unit Test
