@@ -1,0 +1,11 @@
+Yang bisa di-imporve :
+    gunakan pagination
+
+Apakah unit test perlu?
+    ya, unit test itu tidak urgent, tapi important.
+
+Apakah code commenting itu perlu?
+    Tidak terlau, kode harusnya sudah self-descripted, kecuali, ada case case bisnis yang perlu dijelaskan pada kode.
+
+Apakah planning itu perlu?
+    Yes, lebih baik gagal di planning dari pada saat fase implementation
