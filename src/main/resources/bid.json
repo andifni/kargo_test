@@ -1,0 +1,76 @@
+{
+ "bids" :[
+   {
+     "id": "5d394dfc64b750729ae55072",
+     "price": 3816.4,
+     "note": "Esse nisi duis tempor id voluptate eiusmod mollit. Commodo ex consequat dolore anim veniam velit. In minim ea consequat elit id laboris dolor occaecat minim fugiat in enim. Fugiat culpa enim qui dolor minim mollit occaecat nulla.\r\n",
+     "jobId": "5d394dfcc6371c88b643cf85",
+     "transporterId": "5d394dfc15344ac09dbc806d",
+     "vehicle": "fugiat"
+   },
+   {
+     "id": "5d394dfc93542a6c2fa328f3",
+     "price": 3444.79,
+     "note": "Irure veniam sint aliquip cupidatat. Eu ullamco commodo aliquip tempor reprehenderit esse exercitation adipisicing occaecat ex anim commodo incididunt officia. Sunt cupidatat laborum consequat eu id proident dolor labore excepteur in quis in ad ullamco.\r\n",
+     "jobId": "5d394dfc03129799fc14972d",
+     "transporterId": "5d394dfca9883dd8935a4f95",
+     "vehicle": "ipsum"
+   },
+   {
+     "id": "5d394dfc7af52cd3609c7de8",
+     "price": 1989.66,
+     "note": "Officia consequat excepteur culpa irure aute. Enim ut laboris laboris mollit officia dolor esse ad. Consequat duis reprehenderit aute pariatur in qui duis labore anim magna. Ea dolor incididunt ullamco duis veniam officia aliquip est velit nostrud. Id qui nisi Lorem et fugiat. Sint consequat aliqua labore sint laborum esse voluptate fugiat duis consectetur incididunt.\r\n",
+     "jobId": "5d394dfc75ce5af2a44de7fc",
+     "transporterId": "5d394dfc0ec0893d3111e66c",
+     "vehicle": "culpa"
+   },
+   {
+     "id": "5d394dfcf133794e107ecb48",
+     "price": 2134.73,
+     "note": "Ea irure officia eu Lorem aliqua elit ex occaecat velit deserunt irure exercitation Lorem. Officia et sit qui ullamco. Pariatur amet minim culpa esse exercitation exercitation quis nulla quis id. Mollit amet Lorem fugiat incididunt quis commodo commodo voluptate do eu id.\r\n",
+     "jobId": "5d394dfcc21c699ac090003b",
+     "transporterId": "5d394dfc57d12dcec62535af",
+     "vehicle": "incididunt"
+   },
+   {
+     "id": "5d394dfcfd6bb2414355dde5",
+     "price": 1615.2,
+     "note": "Anim incididunt veniam culpa in pariatur culpa ipsum cupidatat. Aliqua consectetur velit magna exercitation adipisicing minim enim minim do veniam nostrud ullamco eiusmod. Ex incididunt do minim do aliquip et quis proident pariatur occaecat pariatur et. Amet fugiat reprehenderit aute dolore labore anim est sit laborum tempor. Duis qui cillum elit sint do veniam enim.\r\n",
+     "jobId": "5d394dfcf38b8647e3e40e10",
+     "transporterId": "5d394dfccf315fd753f31f11",
+     "vehicle": "tempor"
+   },
+   {
+     "id": "5d394dfcc19af99ceb76497d",
+     "price": 2439.41,
+     "note": "Nulla sint culpa laborum ex duis ea reprehenderit cillum voluptate elit laboris. Labore id laboris esse aliquip enim aute amet id proident. Pariatur aute dolore sunt qui anim. Fugiat et aliquip excepteur eiusmod. Nisi fugiat in nulla fugiat consequat id et aliquip cillum aliqua tempor esse. Pariatur sit commodo proident qui fugiat sit proident fugiat fugiat qui.\r\n",
+     "jobId": "5d394dfcad66490dc3e18180",
+     "transporterId": "5d394dfcd4415cf1e140fe01",
+     "vehicle": "reprehenderit"
+   },
+   {
+     "id": "5d394dfc0a450286ca661c9d",
+     "price": 2237.67,
+     "note": "Pariatur magna ullamco do excepteur. Voluptate elit nisi tempor aute sint anim quis voluptate voluptate ullamco ad enim tempor cupidatat. Ad aute nostrud sint commodo excepteur elit velit. Sint ipsum labore et nostrud commodo anim. Tempor nostrud occaecat nulla sit amet est non elit adipisicing nulla eiusmod quis. Nisi anim culpa duis dolor tempor pariatur reprehenderit nostrud enim labore. Deserunt aute cillum excepteur commodo incididunt culpa pariatur.\r\n",
+     "jobId": "5d394dfcd26ded689a5fb35f",
+     "transporterId": "5d394dfc1a8a0f8f07f8550d",
+     "vehicle": "duis"
+   },
+   {
+     "id": "5d394dfc93be021c3b295e61",
+     "price": 1353.21,
+     "note": "Et velit labore qui proident in consequat commodo consectetur tempor laborum aute voluptate ea laborum. Cillum adipisicing labore qui do ea consequat exercitation magna esse do amet amet minim. Anim deserunt enim cillum aliquip.\r\n",
+     "jobId": "5d394dfc75cf843e373d25ea",
+     "transporterId": "5d394dfc6fa05246e7d42781",
+     "vehicle": "enim"
+   },
+   {
+     "id": "5d394dfc00e69a01196f7174",
+     "price": 2473.78,
+     "note": "Aliqua elit non excepteur cillum adipisicing officia. Occaecat culpa et do magna exercitation nostrud aute fugiat ut qui sit qui veniam. Sit exercitation anim amet deserunt pariatur culpa mollit aliquip magna est voluptate ipsum. Ad est consectetur officia ex quis magna adipisicing cupidatat labore irure ad. Elit sint ea minim minim pariatur. Ut ipsum officia qui officia magna ad velit et reprehenderit et exercitation commodo.\r\n",
+     "jobId": "5d394dfc0945a3ae8de29607",
+     "transporterId": "5d394dfc4936cdabee112dbb",
+     "vehicle": "dolor"
+   }
+ ]
+}
