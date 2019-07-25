@@ -1,0 +1,11 @@
+- Create Spring boot template
+- Create dummy data bid and job
+- Create JSONReader and JSONParser
+- Create MergeSort
+- Create DataModel
+- Create Controller for /bid?
+	- Read parameter
+	- Create comparator for Bid DataModel
+	- Read JSON
+	- Parse JSON to Model
+	- sort data
